@@ -1,0 +1,17 @@
+{
+    "name": "lyuanbo/nater",
+    "description": "composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "丶小光",
+            "email": "1214576607@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nater\\": "src/"
+        }
+    },
+    "require": {}
+}
